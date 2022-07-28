@@ -1,6 +1,6 @@
 
 import React from "react";
-import { Welcome } from "./welcome";
+import { Welcome } from "./Welcome";
 
 // V2 adds constructors, super and mounting, 
 //    allows CLASS component to update itself.
@@ -29,7 +29,7 @@ import { Welcome } from "./welcome";
   
     render(){
       return ( 
-      <div>
+      <div className = "clock">
         <Welcome name="Jamie" animal = "woman" />
         <h1>TickV2 says "Hello, World"</h1>
         <h2>The time is {new Date().toLocaleTimeString()}.</h2>

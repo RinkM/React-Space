@@ -1,3 +1,23 @@
+# React Practice and Learning Space
+## Learning Objectives 
+- create a React App.
+- use bootstrap components to display JSON user information.
+- build components using classes and functions.
+- incorporate hooks into these function components. 
+- build and validate forms.
+- use Redux to manage changes in the app.
+- display changes in app 
+- Find a date for Friday night.
+
+## Summary of Learning
+The pattern for buildinng this "app" was very similar. With the help of a friend or using online tutorials, I would build some practice components (searchForm, Welcome, ClockClasses).  Then, I would try to extend this into more complicated components that would interact with the fake user information.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +25,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
