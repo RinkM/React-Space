@@ -20,7 +20,7 @@ Goal was to use this file's contents and display it in various ways.  I created 
 - Find a date for Friday night.
 
 ## Summary of Learning
-The pattern for buildinng this "app" was very similar. With the help of a friend or using online tutorials, I would build some practice components (searchForm, Welcome, ClockClasses).  Then, I would try to extend this into more complicated components that would interact with the fake user information.
+The pattern for building this "app" was very similar. With the help of a friend or using online tutorials, I would build some practice components (searchForm, Welcome, ClockClasses).  Then, I would try to extend this into more complicated components that would interact with the fake user information.
 
 
 
