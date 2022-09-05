@@ -1,6 +1,6 @@
 
 import React from "react";
-import { Welcome } from "./Welcome";
+import { Welcome } from "./welcome";
 
 // V2 adds constructors, super and mounting, 
 //    allows CLASS component to update itself.
