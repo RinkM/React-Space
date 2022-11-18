@@ -1,13 +1,15 @@
 # React Practice and Learning Space
 
 ## App Goal
+Goal was to use this file's contents and display it in various ways. 
+I created something comparable to a user directory but decided to go with a Robot Dating Site. 
 This app uses a JSON data file of users which includes : 
 - Name
 - Email
 - Avatar picture link
 - Id #
 
-Goal was to use this file's contents and display it in various ways.  I created something comparable to a user directory but decided to go with a Robot Dating Site. 
+
 
 ## Learning Objectives 
 - create a React App.
